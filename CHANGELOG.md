@@ -1,3 +1,7 @@
+## [1.0.0] - 04/02/21
+
+- BREAKING: refactor: remodel api to work declaratively
+
 ## [0.2.1] - 02/19/21
 
 - feat: add `padding` api to `InfiniteList`
