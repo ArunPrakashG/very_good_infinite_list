@@ -1,6 +1,10 @@
-## [1.0.0] - 04/02/21
+## [1.0.0] - 04/07/21
 
 - BREAKING: refactor: remodel api to work declaratively
+
+## [0.3.0] - 04/05/21
+
+- nnbd migration
 
 ## [0.2.1] - 02/19/21
 
